@@ -119,7 +119,7 @@ export const definitions: DefinitionWithExtend[] = [
         extend: [philips.m.light()],
     },
     {
-        zigbeeModel: ["LEDtube T8 5FT V2.0"],
+        zigbeeModel: ["LEDtube T8 5FT V2.0", "LEDtube_EMA_T8_2FT_V3"],
         model: "LP_CF_7904008_EU",
         vendor: "Philips",
         description: "MasterConnect LEDtube EM/mains T8",
